@@ -50,7 +50,7 @@ message Response {
 ## 安装
 
 ```shell
-go get github.com:akkagao/go2proto
+go get github.com/akkagao/go2proto
 ```
 
 ## 使用
