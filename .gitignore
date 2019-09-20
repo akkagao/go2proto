@@ -1,0 +1,4 @@
+.idea
+*.bak
+proto
+go2proto
